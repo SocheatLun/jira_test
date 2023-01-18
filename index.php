@@ -15,5 +15,8 @@
         <input type="text">
         <button>submit</button>
     </form>
+    <footer>
+        <h1>footer</h1>
+    </footer>
 </body>
 </html>
