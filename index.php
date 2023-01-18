@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <input type="text">
+        <button>submit</button>
+    </form>
 </body>
 </html>
